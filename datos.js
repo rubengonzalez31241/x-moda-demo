@@ -13,29 +13,35 @@ const productos = [
     categoria: "Hombre",
     precio: 16000,
     imagen: "img/remera-hombre.jpg"
-  }
-];
-const productos =[
-    { nombre: "Jean recto", categoria: "Hombre", precio: 36000, imagen: "img/jean-hombre.jpg" },
-
-
-];
-const productos =[{
+  },
+  {
+    nombre: "Jean recto",
+    categoria: "Hombre",
+    precio: 36000,
+    imagen: "img/jean-hombre.jpg"
+  },
+  {
     nombre: "Buzo canguro de friza",
     categoria: "Hombre",
     precio: 36000,
     imagen: "img/buzo-hombre.jpg"
-}];
-const productos =[{
+  },
+  {
     nombre: "Vestido corto floral",
     categoria: "Mujer",
     precio: 38000,
     imagen: "img/vestido-mujer.jpg"
-}
-]:
-const productos =[{
+  },
+  {
     nombre: "Jean mom fit",
     categoria: "Mujer",
     precio: 42000,
     imagen: "img/jean-mujer.jpg"
-}];
+  },
+  {
+    nombre: "Campera de jean",
+    categoria: "Mujer",
+    precio: 55000,
+    imagen: "img/campera-mujer.jpg"
+  }
+];
