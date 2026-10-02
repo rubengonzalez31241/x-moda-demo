@@ -44,4 +44,4 @@ const productos = [
     precio: 55000,
     imagen: "img/campera-mujer.jpg"
   }
-];
+]; 
