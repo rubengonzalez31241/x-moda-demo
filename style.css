@@ -123,3 +123,26 @@ h2 {
   cursor: pointer;
   color: #555;
 }
+@media (max-width: 600px) {
+  header h1 {
+    font-size: 24px;
+  }
+
+  main {
+    padding: 16px 12px;
+  }
+
+  #lista-productos {
+    grid-template-columns: repeat(2, 1fr);
+    gap: 12px;
+  }
+
+  .boton-whatsapp span {
+    font-size: 14px;
+  }
+
+  .modal-contenido {
+    padding: 16px;
+  }
+}
+
